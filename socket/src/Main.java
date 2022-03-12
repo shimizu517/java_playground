@@ -31,6 +31,5 @@ public class Main {
         } catch (IOException ex) {
             System.out.println("I/O error: " + ex.getMessage());
         }
-
     }
 }
